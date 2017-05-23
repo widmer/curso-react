@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/.bin/webpack-dev-server --content-base app/dist --inline --hot"
+    "clase2": "./node_modules/.bin/webpack-dev-server --config clase2/webpack.config.js --content-base clase2/app/dist --inline --hot"
   },
   "author": "",
   "license": "ISC",
